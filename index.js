@@ -1,4 +1,3 @@
-pet_name = "";
 
 function myAnimal() {
   let animal = "dog";
